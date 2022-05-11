@@ -16,7 +16,7 @@ print("When I saw \"Pico\", one digit is correct but in the wrong position.")
 print("When I say \"Fermi\", one digit is correct and in the right position.")
 print("When I say \"Bagels\", no digit is correct.")
 print("----------------------------\n")
-print("Debug: The secret number is " + secretNumberString)
+#print("Debug: The secret number is " + secretNumberString)
 
 while correctGuess is False and guessCounter > 0:
     print("Guesses remaining: " + str(guessCounter))
