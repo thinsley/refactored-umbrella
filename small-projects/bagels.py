@@ -4,6 +4,7 @@ from types import coroutine
 MAX_DIGITS = 3
 GUESSES = 3
 
+#Generate secret number, define guess counter and the correct guess boolean flag.
 secretNumber = random.randint(1, 999)
 secretNumberString = str(secretNumber)
 guessCounter = 10
