@@ -1,7 +1,7 @@
-print("Hello World, you can suck my dick")
+print("Hello World, GOATIFI rules")
 
 firstName = "Tristan"
 lastName = "Hinsley"
-occupation = "MILF Fucker"
+occupation = "Crab Raver"
 
 print("My name is " + firstName + " " + lastName + ", and I work as a " + occupation.upper())
